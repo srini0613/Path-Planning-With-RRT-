@@ -44,3 +44,7 @@ Fucntion mybez.m, RRT* way points are feed and output is way points of smooth cu
   <img src="Smooth Path.png" width="400"/>  
   
 </p>
+
+#Motion Control using trajecotry tracking Algorithm.
+
+PurePursuit controller is implemented to control the vehicle in the defined path, while reducing the cross track error.
