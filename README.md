@@ -23,5 +23,8 @@ Obstacle1=[10,30,4,4]
   
 </p>
 
+We have defined the parking positon or Goal position, Parking Slot has been defined and shown in the figure.
+
+
 # Sampling Based Planner.
 
