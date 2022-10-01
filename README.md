@@ -19,7 +19,7 @@ The Obstacle are defined by:
 Obstacle=[25,25,4,4]
 Obstacle1=[10,30,4,4]
 <p align="center">
-  <img src="Map.png" width="400"/>  
+  <img src="outputs/Map.png" width="400"/>  
   
 </p>
 
@@ -34,14 +34,14 @@ Random Nodes generated, the Max number of nodes is defined,and the obstacle free
 The Below Image is the RRT* Path planning:
 
 <p align="center">
-  <img src="output/RRTstar path.png" width="400"/>  
+  <img src="outputs/RRTstar path.png" width="400"/>  
   
 </p>
 To smooth the Path form RRT* Algorithm , we have used Bezier Curve equation.
 Fucntion mybez.m, RRT* way points are feed and output is way points of smooth curve.
 
 <p align="center">
-  <img src="output/Smooth Path.png" width="400"/>  
+  <img src="outputs/Smooth Path.png" width="400"/>  
   
 </p>
 
@@ -49,5 +49,5 @@ Fucntion mybez.m, RRT* way points are feed and output is way points of smooth cu
 
 PurePursuit controller is implemented to control the vehicle in the defined path, while reducing the cross track error.
 
-[video](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/output/result.avi)
-![simulation](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/output/Motion%20control%20of%20Furbot.gif)
+[video](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/outputs/result.avi)
+![simulation](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/outputs/Motion%20control%20of%20Furbot.gif)
