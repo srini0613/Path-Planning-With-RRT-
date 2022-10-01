@@ -28,3 +28,6 @@ We have defined the parking positon or Goal position, Parking Slot has been defi
 
 # Sampling Based Planner.
 
+In the sampling-based method, We have to generate points on the map which fall on the empty region of the map.
+Then we calculate which node has a connection to which nodes.  In this way, we obtain the undirected graph of generated random points.
+Random Nodes generated, the Max number of nodes is defined,and the obstacle free path is generated  untill the max number of nodes is generated.
