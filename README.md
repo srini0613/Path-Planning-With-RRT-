@@ -50,4 +50,4 @@ Fucntion mybez.m, RRT* way points are feed and output is way points of smooth cu
 PurePursuit controller is implemented to control the vehicle in the defined path, while reducing the cross track error.
 
 [video](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/result.avi)
-(https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/Motion%20control%20of%20Furbot.gif)
+![simulation](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/Motion%20control%20of%20Furbot.gif)
