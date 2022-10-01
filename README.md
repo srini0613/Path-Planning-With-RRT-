@@ -54,4 +54,4 @@ PurePursuit controller is implemented to control the vehicle in the defined path
 
 # Program execution.
 1) Run Code/RRTFurbot.m for Path planning.
-2) Run Code/Main for Motion control of Furbot 
+2) Run Code/Main.m for Motion control of Furbot (1 for PurePursuit controller) (2 for PID controller)
