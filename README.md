@@ -45,9 +45,13 @@ Fucntion mybez.m, RRT* way points are feed and output is way points of smooth cu
   
 </p>
 
-#Motion Control using trajecotry tracking Algorithm.
+# Motion Control using trajecotry tracking Algorithm.
 
 PurePursuit controller is implemented to control the vehicle in the defined path, while reducing the cross track error.
 
 [video](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/outputs/result.avi)
-![simulation](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/Motion%20control%20of%20Furbot.gif)
+![simulation](https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/outputs/Motion%20control%20of%20Furbot.gif)
+
+# Program execution.
+1) Run Code/RRTFurbot.m for Path planning.
+2) Run Code/Main for Motion control of Furbot 
