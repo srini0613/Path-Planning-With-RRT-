@@ -19,7 +19,7 @@ The Obstacle are defined by:
 Obstacle=[25,25,4,4]
 Obstacle1=[10,30,4,4]
 <p align="center">
-  <img src="Mmap.png" width="300"/>  
+  <img src="Map.png" width="300"/>  
   
 </p>
 
