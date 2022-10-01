@@ -31,3 +31,22 @@ We have defined the parking positon or Goal position, Parking Slot has been defi
 In the sampling-based method, We have to generate points on the map which fall on the empty region of the map.
 Then we calculate which node has a connection to which nodes.  In this way, we obtain the undirected graph of generated random points.
 Random Nodes generated, the Max number of nodes is defined,and the obstacle free path is generated  untill the max number of nodes is generated.
+The Below Image is the RRT* Path planning:
+
+<p align="center">
+  <img src="RRTstar path.png" width="400"/>  
+  
+</p>
+To smooth the Path form RRT* Algorithm , we have used Bezier Curve equation.
+Fucntion mybez.m, RRT* way points are feed and output is way points of smooth curve.
+
+<p align="center">
+  <img src="Smooth Path.png" width="400"/>  
+  
+</p>
+
+#Motion Control using trajecotry tracking Algorithm.
+
+PurePursuit controller is implemented to control the vehicle in the defined path, while reducing the cross track error.
+
+https://github.com/srini0613/Path-Planning-With-RRT-/blob/main/result.avi
