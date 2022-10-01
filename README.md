@@ -38,7 +38,7 @@ The Below Image is the RRT* Path planning:
   
 </p>
 To smooth the Path form RRT* Algorithm , we have used Bezier Curve equation.
-fucntion mybez.m, RRT* way points are feed and output is way points of smooth curve.
+Fucntion mybez.m, RRT* way points are feed and output is way points of smooth curve.
 
 <p align="center">
   <img src="Smooth Path.png" width="400"/>  
